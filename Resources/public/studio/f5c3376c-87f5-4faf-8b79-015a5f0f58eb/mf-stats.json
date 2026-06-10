@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopuser",
     "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopuser/studio/8d0417f0-27a3-482e-a7d6-1517cda89634/"
+    "publicPath": "/bundles/coreshopuser/studio/f5c3376c-87f5-4faf-8b79-015a5f0f58eb/"
   },
   "shared": [
     {
@@ -37,8 +37,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.bff4967f.js",
-            "static/js/async/76.f72c9b11.js"
+            "static/js/async/695.7b953277.js",
+            "static/js/async/76.8e1da705.js"
           ]
         },
         "css": {
@@ -115,7 +115,7 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/async/__federation_expose_default_export.c6ebaa37.js"
+            "static/js/async/__federation_expose_default_export.c024345a.js"
           ],
           "async": []
         },
