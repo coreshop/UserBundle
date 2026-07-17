@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopuser",
-    "pluginVersion": "2.5.1",
-    "publicPath": "/bundles/coreshopuser/studio/b474d661-ffea-466e-93e0-943f8c32a76b/"
+    "pluginVersion": "2.8.0",
+    "publicPath": "/bundles/coreshopuser/studio/6f05639c-2386-4c45-aba6-b60095c05df8/"
   },
   "shared": [
     {
@@ -34,8 +34,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.bff4967f.js",
-            "static/js/async/76.f72c9b11.js"
+            "static/js/async/695.2d45c59f.js",
+            "static/js/async/76.d0f2c8b2.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/375.8099ad0c.js"
+            "static/js/async/375.6fae33e4.js"
           ]
         },
         "css": {
@@ -87,7 +87,7 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/async/__federation_expose_default_export.c6ebaa37.js"
+            "static/js/async/__federation_expose_default_export.8f0bfc42.js"
           ],
           "async": []
         },
